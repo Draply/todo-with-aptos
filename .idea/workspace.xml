@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6a4df1a6-c9b4-49ad-abd5-ebe3f79d4ab4" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/todo_list/aptos-core" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="ejiicmdy" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2d5C5Vp5KxYDGHrehuSQcBezig1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Aptos.Test todolist::test_flow (1).executor": "Run",
+    "Aptos.Test todolist::test_flow (2).executor": "Run",
+    "Aptos.Test todolist::test_flow (3).executor": "Run",
+    "Aptos.Test todolist::test_flow (4).executor": "Run",
+    "Aptos.Test todolist::test_flow (5).executor": "Run",
+    "Aptos.Test todolist::test_flow.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.rust.reset.selective.auto.import": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "E:/todo-with-aptos",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon": "",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "E:\\todo-with-aptos\\client\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Aptos.Test todolist::test_flow">
+    <configuration name="Compile Project" type="AptosCommandConfiguration" factoryName="AnyCommand">
+      <option name="command" value="move compile" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test todolist::test_flow (2)" type="AptosCommandConfiguration" factoryName="AnyCommand" temporary="true">
+      <option name="command" value="move test --filter todolist::test_flow" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs>
+        <env name="APTOS_DISABLE_TELEMETRY" value="true" />
+      </envs>
+      <method v="2" />
+    </configuration>
+    <configuration name="Test todolist::test_flow (3)" type="AptosCommandConfiguration" factoryName="AnyCommand" temporary="true">
+      <option name="command" value="move test --filter todolist::test_flow" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs>
+        <env name="APTOS_DISABLE_TELEMETRY" value="true" />
+      </envs>
+      <method v="2" />
+    </configuration>
+    <configuration name="Test todolist::test_flow (4)" type="AptosCommandConfiguration" factoryName="AnyCommand" temporary="true">
+      <option name="command" value="move test --filter todolist::test_flow" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs>
+        <env name="APTOS_DISABLE_TELEMETRY" value="true" />
+      </envs>
+      <method v="2" />
+    </configuration>
+    <configuration name="Test todolist::test_flow (5)" type="AptosCommandConfiguration" factoryName="AnyCommand" temporary="true">
+      <option name="command" value="move test --filter todolist::test_flow" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs>
+        <env name="APTOS_DISABLE_TELEMETRY" value="true" />
+      </envs>
+      <method v="2" />
+    </configuration>
+    <configuration name="Test todolist::test_flow" type="AptosCommandConfiguration" factoryName="AnyCommand" temporary="true">
+      <option name="command" value="move test --filter todolist::test_flow" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs>
+        <env name="APTOS_DISABLE_TELEMETRY" value="true" />
+      </envs>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Aptos.Test todolist::test_flow" />
+        <item itemvalue="Aptos.Test todolist::test_flow (5)" />
+        <item itemvalue="Aptos.Test todolist::test_flow (4)" />
+        <item itemvalue="Aptos.Test todolist::test_flow (3)" />
+        <item itemvalue="Aptos.Test todolist::test_flow (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a4df1a6-c9b4-49ad-abd5-ebe3f79d4ab4" name="Changes" comment="" />
+      <created>1709288369785</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709288369785</updated>
+      <workItem from="1709288370837" duration="141000" />
+      <workItem from="1709459173280" duration="4311000" />
+      <workItem from="1709517793130" duration="15740000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

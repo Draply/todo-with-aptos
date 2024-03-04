@@ -1,0 +1,11 @@
+[package]
+name = "my_todo_list"
+version = "1.0.0"
+authors = []
+
+[addresses]
+todolist_addr='747a2c84552e69257be49b20683f205847ad69f7d367a729bc81aed1496ec6de'
+
+[dependencies]
+AptosFramework = {local = "./aptos-core/aptos-move/framework/aptos-framework"}
+
