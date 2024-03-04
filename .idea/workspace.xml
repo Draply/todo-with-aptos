@@ -4,14 +4,16 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a4df1a6-c9b4-49ad-abd5-ebe3f79d4ab4" name="Changes" comment="" />
+    <list default="true" id="6a4df1a6-c9b4-49ad-abd5-ebe3f79d4ab4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/todo_list/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/todo_list/aptos-core" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="ejiicmdy" />
@@ -118,7 +120,7 @@
       <updated>1709288369785</updated>
       <workItem from="1709288370837" duration="141000" />
       <workItem from="1709459173280" duration="4311000" />
-      <workItem from="1709517793130" duration="15740000" />
+      <workItem from="1709517793130" duration="16162000" />
     </task>
     <servers />
   </component>
